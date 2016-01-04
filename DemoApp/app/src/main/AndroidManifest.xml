@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.demo.pavilionis.demoapp">
+    package="com.demo.pavilionis.demoapp"
+
+    android:versionCode="1"
+    android:versionName="This is version name"
+    >
 
     <application
         android:allowBackup="true"
