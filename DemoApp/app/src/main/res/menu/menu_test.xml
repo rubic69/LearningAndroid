@@ -7,4 +7,10 @@
         android:orderInCategory="100"
         android:title="@string/action_settings"
         app:showAsAction="never" />
+    <item
+        android:id="@+id/action_blank"
+        android:orderInCategory="100"
+        android:title="Blank"
+        app:showAsAction="never" />
+    <!-- Looks like default task bar menu. <item/> adds new menu item to it -->
 </menu>
